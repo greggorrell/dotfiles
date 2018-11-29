@@ -1,0 +1,8 @@
+ 	.config/terminal 
+	.fonts 	
+	.i3 	
+	.compton.conf 	
+	.tmux.conf 	
+	.vimrc
+	.wallpaper.jpg 
+	.zshrc
