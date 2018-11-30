@@ -1,0 +1,23 @@
+Composters - compton
+Background image - feh
+Bars - Polybar, i3-blocks
+Font rendering - infanality (not needed with Ubuntu)
+GTK configuration generator - lcappearance
+dmenu replacement - Rofi, Albert
+i3 addons - i3-lock
+
+
+Console File Managers - MC, Ranger
+Weather - wttr.in, wego, pyphoon
+
+
+
+tmux - multiplexer
+
+
+Shells - zsh
+
+
+
+To Do
+Create vimrc file
